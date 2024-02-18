@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Listadd.groovy&apos; to &apos;LIst/src/com.app&apos;&#x0A;- Original project: &apos;Method&apos;&#x0A;- Destination element: &apos;LIst/src/com.app&apos;&#x0A;- Original element: &apos;Listadd.groovy&apos;&#x0A;- Update references to refactored element" description="Move file" destination="=LIst/src&lt;com.app" element1="Listadd.groovy" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1707983748640" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+package inheritance
+
+class Parent {
+        def studentID = 100
+        void display() {
+                println("parent class")
+        }
+        def getStudentID() {
+                return this.studentID
+        }
+}
+

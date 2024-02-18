@@ -1,0 +1,15 @@
+package com.app
+
+class Student {
+		// TODO Auto-generated method stub
+		def studentId
+		def studentName
+    static void main(args) {
+	Student student =new Student()
+	student.studentId = 123
+	student.studentName = "Kabir"
+	
+	println(student.metaClass) 
+		
+	}
+}

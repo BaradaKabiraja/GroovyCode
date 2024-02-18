@@ -1,0 +1,27 @@
+package com.app
+
+class Student {
+
+	static void main(String []args) {
+		// TODO Auto-generated method stub
+		Student student = new Student (1,100);
+		student.DispayMarks();
+		
+		
+	}
+}
+interface Marks {
+	void DisplayMarks();
+}
+
+Class Student Implements Marks {
+	int StudentId;
+	int Marks;
+	Student (int ID,int marks){
+		this.StudentID=ID
+		this.Marks=marks
+	}
+	void DisplayMarks() {
+		Println("the Mark is " + this.Marks);
+	}
+}
